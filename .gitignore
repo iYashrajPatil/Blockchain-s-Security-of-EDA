@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+secrets.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Power BI & Reports
+*.pbix
+*.pdf
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
